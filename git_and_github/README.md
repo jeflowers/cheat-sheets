@@ -99,6 +99,4 @@ Generate SSH keys for secure authentication with GitHub:
 This cheat sheet covers the essentials to get you started. Additional updtes and other documents will provide more advanced topics and features.
 For not, to find more advanced features and workflows, refer to the [official Git documentation](https://git-scm.com/doc).
 
---- 
-
-Let me know if you'd like to tweak this or add more details!
+---
