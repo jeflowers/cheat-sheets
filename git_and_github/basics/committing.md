@@ -105,4 +105,4 @@ Now, Git records the current state of `index.html` and `style.css` in the projec
 
 ---
 
-A **Git commit** is essentially a way to tell Git, "This is an important point in my project that I want to remember."
+A **Git commit** serves as a declaration to Git, marking a significant moment in my project that I wish to preserve in memory.
