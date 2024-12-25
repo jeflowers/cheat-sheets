@@ -24,6 +24,14 @@ It enables you to review your changes, debug issues, and revert to previous vers
 
 ---
 
+## What is a Git Repository (Repo)
+- A Git Repo is a workspace which tracks and manages files within a folder.
+- For any project, app, doc, spreadsheet, etc we can use Git by creating a new git repository.
+- Examples:  Website dev, authoring a book, creating a financial plan, and more.
+- Each git repository has its own history.
+
+---
+
 ## Common Git Commands
 
 ### Repository Management
