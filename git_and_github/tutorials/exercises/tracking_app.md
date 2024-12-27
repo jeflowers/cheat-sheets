@@ -106,5 +106,7 @@ This step-by-step exercise will reinforce Git concepts using the example of a pr
 - **Stage and Commit**: Use `git add` to stage changes and `git commit` to save them.
 - **Separate Commits**: Break changes into logical, atomic commits for clarity.
 - **Review History**: Regularly check your commit history to ensure clarity and accuracy.
+  
+---
 
 This exercise cultivates a profound comprehension of Git workflows, enhancing your mastery of version control with each step taken.
