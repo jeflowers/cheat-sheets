@@ -1,5 +1,8 @@
+# Generic Technical Breakdown: Implementing Token Classification with Python and Hugging Face #
+
 This guide provides the foundational steps to implement **Token Classification with Hugging Face Transformers**. 🚀
-**Technical Breakdown: Implementing Token Classification with Python and Hugging Face**
+
+--- 
 
 ### **1. Overview**
 This document provides a technical breakdown for implementing **token classification** using **Hugging Face Transformers** and **Python**. We will use **BERT (or any Transformer model)** for Named Entity Recognition (NER) and other token classification tasks.
